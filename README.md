@@ -4,7 +4,7 @@ This is an application that takes in user messages and encodes them in one of th
 ## Languages used
 
 - JavaScript
-- CSS
+- HTML
 
 ## Coders
 
